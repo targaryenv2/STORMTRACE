@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  stormtrace-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: stormtrace:latest
+    container_name: stormtrace_platform
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - DATA_SOURCE=synthetic
+      - AI_PROVIDER=gemini
+      - GEMINI_MODEL=gemini-2.5-flash
+    env_file:
+      - .env
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3

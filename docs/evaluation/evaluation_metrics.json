@@ -1,0 +1,154 @@
+{
+  "evaluation_title": "STORMTRACE Model & Baseline Evaluation (Synthetic Benchmark Sequences)",
+  "evaluation_type": "SYNTHETIC_BENCHMARK_EVALUATION",
+  "evaluated_at_utc": "2026-09-21T00:43:50Z",
+  "test_scenario": "global_tropical_cyclone_band",
+  "test_windows_count": 50,
+  "lead_time_metrics": {
+    "+15min": {
+      "valid_evaluation_windows": 50,
+      "trained_multimodal_model": {
+        "pod": 0.699,
+        "far": 0.667,
+        "csi": 0.272,
+        "hss": 0.366,
+        "brier_score": 0.018
+      },
+      "optical_flow_baseline": {
+        "pod": 0.662,
+        "far": 0.472,
+        "csi": 0.37,
+        "hss": 0.461,
+        "brier_score": 0.012
+      },
+      "persistence_baseline": {
+        "pod": 0.435,
+        "far": 0.286,
+        "csi": 0.313,
+        "hss": 0.396,
+        "brier_score": 0.015
+      }
+    },
+    "+30min": {
+      "valid_evaluation_windows": 44,
+      "trained_multimodal_model": {
+        "pod": 0.578,
+        "far": 0.732,
+        "csi": 0.241,
+        "hss": 0.331,
+        "brier_score": 0.027
+      },
+      "optical_flow_baseline": {
+        "pod": 0.438,
+        "far": 0.618,
+        "csi": 0.235,
+        "hss": 0.324,
+        "brier_score": 0.023
+      },
+      "persistence_baseline": {
+        "pod": 0.277,
+        "far": 0.546,
+        "csi": 0.16,
+        "hss": 0.233,
+        "brier_score": 0.029
+      }
+    },
+    "+45min": {
+      "valid_evaluation_windows": 38,
+      "trained_multimodal_model": {
+        "pod": 0.442,
+        "far": 0.792,
+        "csi": 0.169,
+        "hss": 0.245,
+        "brier_score": 0.033
+      },
+      "optical_flow_baseline": {
+        "pod": 0.25,
+        "far": 0.727,
+        "csi": 0.123,
+        "hss": 0.184,
+        "brier_score": 0.026
+      },
+      "persistence_baseline": {
+        "pod": 0.11,
+        "far": 0.8,
+        "csi": 0.062,
+        "hss": 0.096,
+        "brier_score": 0.04
+      }
+    },
+    "+60min": {
+      "valid_evaluation_windows": 32,
+      "trained_multimodal_model": {
+        "pod": 0.282,
+        "far": 0.869,
+        "csi": 0.093,
+        "hss": 0.142,
+        "brier_score": 0.036
+      },
+      "optical_flow_baseline": {
+        "pod": 0.056,
+        "far": 0.839,
+        "csi": 0.03,
+        "hss": 0.047,
+        "brier_score": 0.022
+      },
+      "persistence_baseline": {
+        "pod": 0.018,
+        "far": 0.884,
+        "csi": 0.01,
+        "hss": 0.011,
+        "brier_score": 0.042
+      }
+    },
+    "+90min": {
+      "valid_evaluation_windows": 20,
+      "trained_multimodal_model": {
+        "pod": 0.012,
+        "far": 0.992,
+        "csi": 0.005,
+        "hss": 0.006,
+        "brier_score": 0.026
+      },
+      "optical_flow_baseline": {
+        "pod": 0.0,
+        "far": 0.4,
+        "csi": 0.0,
+        "hss": 0.0,
+        "brier_score": 0.004
+      },
+      "persistence_baseline": {
+        "pod": 0.0,
+        "far": 0.85,
+        "csi": 0.0,
+        "hss": -0.001,
+        "brier_score": 0.025
+      }
+    },
+    "+120min": {
+      "valid_evaluation_windows": 8,
+      "trained_multimodal_model": {
+        "pod": 0.0,
+        "far": 1.0,
+        "csi": 0.0,
+        "hss": 0.0,
+        "brier_score": 0.01
+      },
+      "optical_flow_baseline": {
+        "pod": 0.0,
+        "far": 0.0,
+        "csi": 0.0,
+        "hss": 0.0,
+        "brier_score": 0.0
+      },
+      "persistence_baseline": {
+        "pod": 0.0,
+        "far": 0.625,
+        "csi": 0.0,
+        "hss": 0.0,
+        "brier_score": 0.006
+      }
+    }
+  },
+  "disclaimer": "Evaluated on multi-timestep synthetic benchmark convective storm sequences. Real operational validation requires verified radar/satellite archive sequences."
+}

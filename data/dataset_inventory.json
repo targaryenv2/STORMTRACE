@@ -1,0 +1,813 @@
+[
+  {
+    "source": "INSAT-3D",
+    "provider": "MOSDAC / ISRO",
+    "format": "HDF5 (.h5)",
+    "status": "REAL_OBSERVATION",
+    "files": [
+      {
+        "name": "3DIMG_11JAN2018_0000_L1C_SGP_V01R00.h5",
+        "size": 75548195
+      },
+      {
+        "name": "3DIMG_11JAN2018_0030_L1C_SGP_V01R00.h5",
+        "size": 77161984
+      },
+      {
+        "name": "3DIMG_11JAN2018_0100_L1C_SGP_V01R00.h5",
+        "size": 78273827
+      },
+      {
+        "name": "3DIMG_11JAN2018_0130_L1C_SGP_V01R00.h5",
+        "size": 79666694
+      },
+      {
+        "name": "3DIMG_11JAN2018_0200_L1C_SGP_V01R00.h5",
+        "size": 80930793
+      },
+      {
+        "name": "3DIMG_11JAN2018_0300_L1C_SGP_V01R00.h5",
+        "size": 83601728
+      },
+      {
+        "name": "3DIMG_11JAN2018_0330_L1C_SGP_V01R00.h5",
+        "size": 84850725
+      },
+      {
+        "name": "3DIMG_11JAN2018_0400_L1C_SGP_V01R00.h5",
+        "size": 86276014
+      },
+      {
+        "name": "3DIMG_11JAN2018_0500_L1C_SGP_V01R00 (1).h5",
+        "size": 88668959
+      },
+      {
+        "name": "3DIMG_11JAN2018_0500_L1C_SGP_V01R00.h5",
+        "size": 88668959
+      },
+      {
+        "name": "3DIMG_11JAN2018_0530_L1C_SGP_V01R00 (1).h5",
+        "size": 89518380
+      },
+      {
+        "name": "3DIMG_11JAN2018_0530_L1C_SGP_V01R00.h5",
+        "size": 89518380
+      },
+      {
+        "name": "3DIMG_11JAN2018_0600_L1C_SGP_V01R00.h5",
+        "size": 89974605
+      },
+      {
+        "name": "3DIMG_11JAN2018_0630_L1C_SGP_V01R00.h5",
+        "size": 90282474
+      },
+      {
+        "name": "3DIMG_11JAN2018_0700_L1C_SGP_V01R00.h5",
+        "size": 90578490
+      },
+      {
+        "name": "3DIMG_11JAN2018_0730_L1C_SGP_V01R00.h5",
+        "size": 90470871
+      },
+      {
+        "name": "3DIMG_11JAN2018_0800_L1C_SGP_V01R00.h5",
+        "size": 90154322
+      },
+      {
+        "name": "3DIMG_11JAN2018_0830_L1C_SGP_V01R00.h5",
+        "size": 89556595
+      },
+      {
+        "name": "3DIMG_11JAN2018_0900_L1C_SGP_V01R00.h5",
+        "size": 88648412
+      },
+      {
+        "name": "3DIMG_11JAN2018_0930_L1C_SGP_V01R00.h5",
+        "size": 87586415
+      },
+      {
+        "name": "3DIMG_11JAN2018_1000_L1C_SGP_V01R00.h5",
+        "size": 86428566
+      },
+      {
+        "name": "3DIMG_11JAN2018_1030_L1C_SGP_V01R00.h5",
+        "size": 85109250
+      },
+      {
+        "name": "3DIMG_11JAN2018_1100_L1C_SGP_V01R00.h5",
+        "size": 83849038
+      },
+      {
+        "name": "3DIMG_11JAN2018_1130_L1C_SGP_V01R00.h5",
+        "size": 82551665
+      },
+      {
+        "name": "3DIMG_11JAN2018_1200_L1C_SGP_V01R00.h5",
+        "size": 81456660
+      },
+      {
+        "name": "3DIMG_11JAN2018_1230_L1C_SGP_V01R00.h5",
+        "size": 79898223
+      },
+      {
+        "name": "3DIMG_11JAN2018_1300_L1C_SGP_V01R00.h5",
+        "size": 78548915
+      },
+      {
+        "name": "3DIMG_11JAN2018_1330_L1C_SGP_V01R00.h5",
+        "size": 77161618
+      },
+      {
+        "name": "3DIMG_11JAN2018_1400_L1C_SGP_V01R00.h5",
+        "size": 75947728
+      },
+      {
+        "name": "3DIMG_11JAN2018_1430_L1C_SGP_V01R00.h5",
+        "size": 74624160
+      },
+      {
+        "name": "3DIMG_11JAN2018_1530_L1C_SGP_V01R00.h5",
+        "size": 72486791
+      },
+      {
+        "name": "3DIMG_11JAN2018_1600_L1C_SGP_V01R00.h5",
+        "size": 71516490
+      },
+      {
+        "name": "3DIMG_11JAN2018_1630_L1C_SGP_V01R00 (1).h5",
+        "size": 71027467
+      },
+      {
+        "name": "3DIMG_11JAN2018_1630_L1C_SGP_V01R00.h5",
+        "size": 71027467
+      },
+      {
+        "name": "3DIMG_11JAN2018_1700_L1C_SGP_V01R00.h5",
+        "size": 70404852
+      },
+      {
+        "name": "3DIMG_11JAN2018_1730_L1C_SGP_V01R00.h5",
+        "size": 69829822
+      },
+      {
+        "name": "3DIMG_11JAN2018_1800_L1C_SGP_V01R00.h5",
+        "size": 69561034
+      },
+      {
+        "name": "3DIMG_11JAN2018_1830_L1C_SGP_V01R00.h5",
+        "size": 69408002
+      },
+      {
+        "name": "3DIMG_11JAN2018_1900_L1C_SGP_V01R00.h5",
+        "size": 69736449
+      },
+      {
+        "name": "3DIMG_11JAN2018_1930_L1C_SGP_V01R00.h5",
+        "size": 68906340
+      },
+      {
+        "name": "3DIMG_11JAN2018_2000_L1C_SGP_V01R00.h5",
+        "size": 68706728
+      },
+      {
+        "name": "3DIMG_11JAN2018_2030_L1C_SGP_V01R00.h5",
+        "size": 68790567
+      },
+      {
+        "name": "3DIMG_11JAN2018_2100_L1C_SGP_V01R00.h5",
+        "size": 69110849
+      },
+      {
+        "name": "3DIMG_11JAN2018_2130_L1C_SGP_V01R00.h5",
+        "size": 69599263
+      },
+      {
+        "name": "3DIMG_11JAN2018_2200_L1C_SGP_V01R00.h5",
+        "size": 70416589
+      },
+      {
+        "name": "3DIMG_11JAN2018_2230_L1C_SGP_V01R00.h5",
+        "size": 71388994
+      },
+      {
+        "name": "3DIMG_11JAN2018_2300_L1C_SGP_V01R00.h5",
+        "size": 72582666
+      },
+      {
+        "name": "3DIMG_11JAN2018_2330_L1C_SGP_V01R00.h5",
+        "size": 74039514
+      }
+    ],
+    "variables": [
+      "GreyCount",
+      "IMG_MIR",
+      "IMG_MIR_RADIANCE",
+      "IMG_MIR_TEMP",
+      "IMG_SWIR",
+      "IMG_SWIR_RADIANCE",
+      "IMG_TIR1",
+      "IMG_TIR1_RADIANCE",
+      "IMG_TIR1_TEMP",
+      "IMG_TIR2",
+      "IMG_TIR2_RADIANCE",
+      "IMG_TIR2_TEMP",
+      "IMG_VIS",
+      "IMG_VIS_ALBEDO",
+      "IMG_VIS_RADIANCE",
+      "IMG_WV",
+      "IMG_WV_RADIANCE",
+      "IMG_WV_TEMP",
+      "Projection_Information",
+      "Sat_Azimuth",
+      "Sat_Elevation",
+      "Sun_Azimuth",
+      "Sun_Elevation",
+      "X",
+      "Y",
+      "proj_dim",
+      "time"
+    ],
+    "dimensions": {
+      "shape": [
+        1,
+        3207,
+        3062
+      ]
+    },
+    "time_range": {},
+    "spatial_extent": {},
+    "resolution": {},
+    "units": {},
+    "provenance": "INSAT-3D L1C observations from MOSDAC"
+  },
+  {
+    "source": "GPM IMERG V07B",
+    "provider": "NASA GPM / Earthdata",
+    "format": "HDF5 (.HDF5)",
+    "status": "REAL_OBSERVATION",
+    "files": [
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S000000-E002959.0000.V07B.HDF5",
+        "size": 7438337
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S003000-E005959.0030.V07B.HDF5",
+        "size": 7467372
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S010000-E012959.0060.V07B.HDF5",
+        "size": 7414086
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S013000-E015959.0090.V07B.HDF5",
+        "size": 7419168
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S020000-E022959.0120.V07B.HDF5",
+        "size": 7390902
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S023000-E025959.0150.V07B.HDF5",
+        "size": 7425221
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S030000-E032959.0180.V07B.HDF5",
+        "size": 7432113
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S033000-E035959.0210.V07B.HDF5",
+        "size": 7510393
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S040000-E042959.0240.V07B.HDF5",
+        "size": 7583693
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S043000-E045959.0270.V07B.HDF5",
+        "size": 7568077
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S050000-E052959.0300.V07B.HDF5",
+        "size": 7701344
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S053000-E055959.0330.V07B.HDF5",
+        "size": 7620573
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S060000-E062959.0360.V07B.HDF5",
+        "size": 7710423
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S063000-E065959.0390.V07B.HDF5",
+        "size": 7688354
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S070000-E072959.0420.V07B.HDF5",
+        "size": 7646200
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S073000-E075959.0450.V07B.HDF5",
+        "size": 7626383
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S080000-E082959.0480.V07B.HDF5",
+        "size": 7605658
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S083000-E085959.0510.V07B.HDF5",
+        "size": 7613718
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S090000-E092959.0540.V07B.HDF5",
+        "size": 7758750
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S093000-E095959.0570.V07B.HDF5",
+        "size": 7657322
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S100000-E102959.0600.V07B.HDF5",
+        "size": 7675511
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S103000-E105959.0630.V07B.HDF5",
+        "size": 7531520
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S110000-E112959.0660.V07B.HDF5",
+        "size": 7710522
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S113000-E115959.0690.V07B.HDF5",
+        "size": 7410254
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S120000-E122959.0720.V07B.HDF5",
+        "size": 7541218
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S123000-E125959.0750.V07B.HDF5",
+        "size": 7480609
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S130000-E132959.0780.V07B.HDF5",
+        "size": 7509147
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S133000-E135959.0810.V07B.HDF5",
+        "size": 7622738
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S140000-E142959.0840.V07B.HDF5",
+        "size": 7581061
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S143000-E145959.0870.V07B.HDF5",
+        "size": 7672022
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S150000-E152959.0900.V07B.HDF5",
+        "size": 7808758
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S153000-E155959.0930.V07B.HDF5",
+        "size": 7884596
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S160000-E162959.0960.V07B.HDF5",
+        "size": 7934110
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S163000-E165959.0990.V07B.HDF5",
+        "size": 7880147
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S170000-E172959.1020.V07B.HDF5",
+        "size": 8051735
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S173000-E175959.1050.V07B.HDF5",
+        "size": 7968303
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S180000-E182959.1080.V07B.HDF5",
+        "size": 7935487
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S183000-E185959.1110.V07B.HDF5",
+        "size": 7929730
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S190000-E192959.1140.V07B.HDF5",
+        "size": 7875631
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S193000-E195959.1170.V07B.HDF5",
+        "size": 7958691
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S200000-E202959.1200.V07B.HDF5",
+        "size": 7827958
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S203000-E205959.1230.V07B.HDF5",
+        "size": 7880290
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S210000-E212959.1260.V07B.HDF5",
+        "size": 7920306
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S213000-E215959.1290.V07B.HDF5",
+        "size": 7815693
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S220000-E222959.1320.V07B.HDF5",
+        "size": 7930001
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S223000-E225959.1350.V07B.HDF5",
+        "size": 7803047
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S230000-E232959.1380.V07B.HDF5",
+        "size": 7883373
+      },
+      {
+        "name": "3B-HHR.MS.MRG.3IMERG.20180111-S233000-E235959.1410.V07B.HDF5",
+        "size": 7703086
+      },
+      {
+        "name": "test_0000.V07B.HDF5",
+        "size": 7438337
+      }
+    ],
+    "variables": [
+      "Intermediate",
+      "nv",
+      "lonv",
+      "latv",
+      "time",
+      "lon",
+      "lat",
+      "time_bnds",
+      "lon_bnds",
+      "lat_bnds",
+      "precipitation",
+      "randomError",
+      "probabilityLiquidPrecipitation",
+      "precipitationQualityIndex"
+    ],
+    "dimensions": {},
+    "time_range": {},
+    "spatial_extent": {},
+    "resolution": {},
+    "units": {},
+    "provenance": "GPM IMERG multi-satellite precipitation"
+  },
+  {
+    "source": "TERLS DWR Radar",
+    "provider": "MOSDAC / ISRO",
+    "format": "NetCDF (.nc)",
+    "status": "REAL_OBSERVATION",
+    "files": [
+      {
+        "name": "v2_2018_01_11_00_12_14_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_00_27_33_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_00_42_54_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_00_58_16_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_01_13_37_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_01_28_55_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_01_44_17_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_01_59_35_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_02_14_57_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_02_30_18_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_02_45_36_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_03_01_28_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_03_16_30_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_03_31_49_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_03_47_10_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_04_02_31_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_04_17_50_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_04_33_11_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_04_48_33_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_05_03_54_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_05_19_15_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_05_34_34_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_05_49_52_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_06_05_11_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_06_20_29_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_06_35_47_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_06_51_09_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_07_06_30_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_07_21_52_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_07_37_10_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_07_52_28_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_08_07_50_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_08_23_11_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_08_38_33_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_08_53_17_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_09_08_19_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_09_23_41_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_09_39_02_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_09_54_24_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_10_09_42_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_10_25_00_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_10_40_19_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_10_55_37_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_11_10_56_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_11_26_17_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_11_41_38_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_11_56_57_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_12_10_22_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_12_25_23_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_12_40_45_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_12_56_03_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_13_11_22_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_13_26_43_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_13_42_04_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_13_57_23_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_14_12_41_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_14_28_00_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_14_43_18_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_14_58_36_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_15_13_55_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_15_29_13_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_15_44_35_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_15_59_56_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_16_15_17_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_16_30_36_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_16_45_54_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_17_01_13_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_23_39_53_dprf_corrected.nc",
+        "size": 149926864
+      },
+      {
+        "name": "v2_2018_01_11_23_55_14_dprf_corrected.nc",
+        "size": 149926864
+      }
+    ],
+    "variables": [
+      "latitude",
+      "longitude",
+      "DBZ",
+      "VEL"
+    ],
+    "dimensions": {
+      "lat": 481,
+      "lon": 481,
+      "time": 1,
+      "height": 81
+    },
+    "time_range": {},
+    "spatial_extent": {},
+    "resolution": {},
+    "units": {},
+    "provenance": "TERLS Thiruvananthapuram DWR volume scan"
+  },
+  {
+    "source": "ERA5 Single Levels",
+    "provider": "Copernicus CDS / ECMWF",
+    "format": "NetCDF (.nc)",
+    "status": "REAL_REANALYSIS",
+    "files": [
+      {
+        "name": "data_stream-oper_stepType-accum.nc",
+        "size": 35608
+      },
+      {
+        "name": "data_stream-oper_stepType-instant.nc",
+        "size": 261988
+      }
+    ],
+    "variables": [
+      "tp"
+    ],
+    "dimensions": {
+      "valid_time": 24,
+      "latitude": 24,
+      "longitude": 19
+    },
+    "time_range": {},
+    "spatial_extent": {},
+    "resolution": {},
+    "units": {},
+    "provenance": "ERA5 reanalysis product"
+  },
+  {
+    "source": "WGLC Lightning",
+    "provider": "WWLLN / WGLC",
+    "format": "NetCDF (.nc)",
+    "status": "REAL_CLIMATOLOGY",
+    "files": [],
+    "variables": [],
+    "dimensions": {},
+    "time_range": {},
+    "spatial_extent": {},
+    "resolution": {},
+    "units": {},
+    "provenance": "WGLC climatological dataset"
+  }
+]

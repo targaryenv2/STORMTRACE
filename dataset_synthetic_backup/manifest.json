@@ -1,0 +1,50 @@
+{
+  "pipeline_manifest_version": "2.0.0",
+  "updated_at_utc": "2026-09-20T18:32:07Z",
+  "events_count": 6,
+  "events": [
+    {
+      "event_id": "EVT-2024-0526-REMAL",
+      "name": "Severe Cyclone Remal Outer Convective Rainband",
+      "timestamp_iso": "2024-05-26T14:00:00Z",
+      "era5_status": "SYNTHETIC_DATA",
+      "imerg_status": "SYNTHETIC_DATA"
+    },
+    {
+      "event_id": "EVT-2024-0430-NORWESTER",
+      "name": "Severe Kalbaishakhi (Nor'wester) Squall Line",
+      "timestamp_iso": "2024-04-30T12:00:00Z",
+      "era5_status": "SYNTHETIC_DATA",
+      "imerg_status": "SYNTHETIC_DATA"
+    },
+    {
+      "event_id": "EVT-2023-0506-KALBAISHAKHI",
+      "name": "Gangetic Plains Multi-cell Supercell Cluster",
+      "timestamp_iso": "2023-05-06T15:00:00Z",
+      "era5_status": "SYNTHETIC_DATA",
+      "imerg_status": "SYNTHETIC_DATA"
+    },
+    {
+      "event_id": "EVT-2021-0525-YAAS",
+      "name": "Very Severe Cyclonic Storm Yaas Pre-Landfall Convective Surge",
+      "timestamp_iso": "2021-05-25T10:00:00Z",
+      "era5_status": "SYNTHETIC_DATA",
+      "imerg_status": "SYNTHETIC_DATA"
+    },
+    {
+      "event_id": "EVT-2020-0520-AMPHAN",
+      "name": "Super Cyclone Amphan Eyewall & Convective Squalls",
+      "timestamp_iso": "2020-05-20T08:00:00Z",
+      "era5_status": "SYNTHETIC_DATA",
+      "imerg_status": "SYNTHETIC_DATA"
+    },
+    {
+      "event_id": "EVT-2022-0408-ODISHA",
+      "name": "Odisha Coastal Pre-Monsoon Thunderstorm Front",
+      "timestamp_iso": "2022-04-08T13:00:00Z",
+      "era5_status": "SYNTHETIC_DATA",
+      "imerg_status": "SYNTHETIC_DATA"
+    }
+  ],
+  "provenance_policy": "Files are explicitly tagged as REAL_REANALYSIS/REAL_OBSERVATION only when downloaded from Copernicus CDS / NASA Earthdata APIs. Offline mathematical models are tagged as SYNTHETIC_DATA."
+}

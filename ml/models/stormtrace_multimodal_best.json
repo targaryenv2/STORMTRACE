@@ -1,0 +1,65 @@
+{
+  "model_architecture": "SpatioTemporal_Multimodal_ConvLSTM_Extrapolator",
+  "trained_at_utc": "2026-09-21T02:54:52Z",
+  "training_data_type": "SYNTHETIC_BENCHMARK_SEQUENCES",
+  "status": "TRAINED_ON_SYNTHETIC_BENCHMARKS_WITH_GRADIENT_DESCENT",
+  "total_epochs": 3,
+  "training_windows_count": 825,
+  "validation_windows_count": 50,
+  "best_val_loss": 0.47792,
+  "parameters": {
+    "weight_radar": 0.502199520773033,
+    "weight_imerg": 0.3019308593259168,
+    "weight_cape": 0.12174276241781928,
+    "weight_wglc_climatology": 0.08057524186075214,
+    "advection_decay_rate": 0.001,
+    "advection_speed_scale": 1.05,
+    "sigmoid_center": 23.999921204360408,
+    "sigmoid_scale": 5.499980599027812
+  },
+  "training_history": [
+    {
+      "epoch": 1,
+      "learning_rate": 0.01,
+      "gradient_norm": 1.8292,
+      "train_convective_loss": 0.5166,
+      "train_bce_loss": 0.5166,
+      "val_convective_loss": 0.47816
+    },
+    {
+      "epoch": 2,
+      "learning_rate": 0.0075,
+      "gradient_norm": 1.224,
+      "train_convective_loss": 0.51647,
+      "train_bce_loss": 0.51647,
+      "val_convective_loss": 0.47798
+    },
+    {
+      "epoch": 3,
+      "learning_rate": 0.0025,
+      "gradient_norm": 0.9383,
+      "train_convective_loss": 0.51643,
+      "train_bce_loss": 0.51643,
+      "val_convective_loss": 0.47792
+    }
+  ],
+  "data_provenance_registry": {
+    "nwp_era5": "SYNTHETIC_DATA (Benchmark Simulation)",
+    "imerg_precipitation": "SYNTHETIC_DATA (Benchmark Simulation)",
+    "lightning_wglc": "REAL_CLIMATOLOGY (2010-2020 Monthly Mean)",
+    "radar_dwr": "DEMO_DATA (Offline Benchmark)",
+    "satellite_insat3ds": "UNAVAILABLE (Masked = 0)"
+  },
+  "disclaimer": "Trained on synthetic multi-timestep benchmark convective sequences with verified future targets for pipeline validation. Real operational training requires verified radar/satellite archive sequences.",
+  "spatial_grid": {
+    "min_lon": 83.5,
+    "min_lat": 20.0,
+    "max_lon": 89.8,
+    "max_lat": 26.3,
+    "height": 64,
+    "width": 64,
+    "dlon_deg": 0.1,
+    "dlat_deg": 0.1,
+    "approx_spatial_res_km": 11.1
+  }
+}
